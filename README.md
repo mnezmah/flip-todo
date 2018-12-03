@@ -1,3 +1,9 @@
+# Todo app
+
+This project is my attempt on creating Todo application with some functionalities done, but with lot more to be done. 
+
+---------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
